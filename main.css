@@ -120,7 +120,7 @@ body{
 .msr {
     width: 100vw;
     height: 100vh;
-    background-image: url('msr.jpg');
+    background-image: url('msr1.jpg');
     background-attachment: fixed;
     /* you need to match the shadow color to your background or image border for the desired effect*/
     box-shadow: 0 0 50% 50% white inset;
@@ -131,7 +131,7 @@ body{
 .msr2 {
     width: 100vw;
     height: 100vh;
-    background-image: url('msr2.jpg');
+    background-image: url('msr3.jpg');
     background-attachment: fixed;
     /* you need to match the shadow color to your background or image border for the desired effect*/
     box-shadow: 0 0 50% 50% white inset;
@@ -142,13 +142,25 @@ body{
 .msr3 {
     width: 100vw;
     height: 100vh;
-    background-image: url('msr3.jpg');
+    background-image: url('msr2.jpeg');
     background-attachment: fixed;
     /* you need to match the shadow color to your background or image border for the desired effect*/
     box-shadow: 0 0 50% 50% white inset;
     background-size: cover;
     background-position: center;
 }
+
+.msr4 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('msr4.jpg');
+    background-attachment: fixed;
+    /* you need to match the shadow color to your background or image border for the desired effect*/
+    box-shadow: 0 0 50% 50% white inset;
+    background-size: cover;
+    background-position: center;
+}
+
 
 .headline {
     margin-top: 20px;
